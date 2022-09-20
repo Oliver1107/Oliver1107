@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Oliver Castellanos-Padilla (He/Him),
+I am a Data Science student in San Franisco.
 <!--
 **Oliver1107/Oliver1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
