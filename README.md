@@ -5,11 +5,17 @@ I am always seeking new challenges and opportunities to grow as a Data Scientist
 
 
 
-Feel free to review my posted project highlights or connect with me to learn more!
+Feel free to review my posted project highlights or connect with me to learn more~!
 
 
 
-If you are looking for a driven and enthusiastic data scientist for your team, I would be thrilled to hear from you. Looking forward to growing my professional network and contributing to the next project!
+??If you are looking for a driven and enthusiastic data scientist for your team, I would be thrilled to hear from you. Looking forward to growing my professional network and contributing to the next project!
+
+
+
+Email:
+
+castellanosoliver67@gmail.com
 <!--
 **Oliver1107/Oliver1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
